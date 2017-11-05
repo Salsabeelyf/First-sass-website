@@ -37,4 +37,17 @@ h1 {
   color: #CC66FF;
   margin: -50px 950px; }
 
+.btn-1 {
+  padding: 15px 20px;
+  border-radius: 7px;
+  border-style: none;
+  border-width: 0;
+  cursor: pointer;
+  background-color: #6600CC;
+  display: block;
+  margin: auto;
+  color: white; }
+  .btn-1:hover {
+    background-color: #9933ff; }
+
 /*# sourceMappingURL=main.css.map */
