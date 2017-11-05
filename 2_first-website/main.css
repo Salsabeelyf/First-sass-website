@@ -26,4 +26,15 @@ h1 {
   text-align: center;
   padding: 18px 10px 10px 7px; }
 
+.thumb2 {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  background-color: #CC66FF;
+  color: #CC66FF;
+  margin: -50px 950px; }
+
 /*# sourceMappingURL=main.css.map */
